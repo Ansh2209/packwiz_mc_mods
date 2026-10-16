@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "d98eb3bf18b3d218b73c8f15db6a21d320c250db2e9e48f277f476ea4a9d1c64"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "1904e0f0926f243858ce05e539c7b2809a852cd4e8bbade36b1a824627a2a70b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "249b9a3bfcb8a23719e656abb121094e63c6d88eeab08f2fbd8ae569948d5303"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
